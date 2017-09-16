@@ -1,0 +1,11 @@
+{
+  "name": "igolek",
+  "version": "1.0.0",
+  "description": "igolek adalah website untuk menghubungkan penemu barang hilang dan pemilik barang hilang",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

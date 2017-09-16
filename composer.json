@@ -1,0 +1,13 @@
+{
+    "name": "anakjalanangeek/igolek",
+    "description": "igolek adalah website untuk menghubungkan penemu barang hilang dan pemilik barang hilang",
+    "type": "project",
+    "authors": [
+        {
+            "name": "anakjalanangeek",
+            "email": "iqbaladinur@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
